@@ -1,0 +1,28 @@
+h1 {
+  width: 100px;
+  color: red;
+  font-size: 60px;
+}
+
+h2 {
+  color: blue;
+}
+
+.block {
+  background-color: #000;
+}
+
+.block h3 {
+  color: white;
+}
+
+.mobile_item {
+  height: 200px;
+}
+
+.mybox {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background: #aaa;
+}
